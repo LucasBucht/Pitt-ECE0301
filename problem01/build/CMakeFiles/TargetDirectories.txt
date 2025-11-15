@@ -1,0 +1,3 @@
+/home/bossdstroyer/problem01/build/CMakeFiles/problem01.dir
+/home/bossdstroyer/problem01/build/CMakeFiles/edit_cache.dir
+/home/bossdstroyer/problem01/build/CMakeFiles/rebuild_cache.dir

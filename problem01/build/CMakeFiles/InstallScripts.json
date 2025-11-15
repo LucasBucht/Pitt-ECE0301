@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/bossdstroyer/problem01/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
