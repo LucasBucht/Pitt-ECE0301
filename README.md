@@ -16,12 +16,15 @@ In this course, I develop procedural and object-oriented programs to solve engin
 
 ## Project Index
 
-Here’s a numbered list of subfolders/projects in this repo. You can add or rename them as you go.
-
-1. [Assignment 1 – Title / Description](assignment1/)  
-2. [Assignment 2 – Title / Description](assignment2/)  
-3. [In-Class Assignment 3 – Title / Description](ica3/)  
-4. *(Add more as needed)*  
+1. [Problem 01](problem01/)
+2. [Problem 02](problem02/)
+3. [Problem 03](problem03/)
+4. [Problem 04](problem04/)
+5. [Problem 05](problem05/)
+6. [Problem 06](problem06/)
+7. [Problem 07](problem07/)
+8. [Problem 08](problem08/)
+9. [Problem 09](problem09/) 
 
 ---
 
